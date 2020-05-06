@@ -60,4 +60,8 @@ Commercial support is available at
 </body>
 </html>
 
+[root@node1 vagrant]# kubectl get service
+NAME         TYPE        CLUSTER-IP    EXTERNAL-IP   PORT(S)        AGE
+kubernetes   ClusterIP   10.254.0.1    <none>        443/TCP        8m5s
+nginx        NodePort    10.254.93.9   <none>        80:30242/TCP   43s
 ```
