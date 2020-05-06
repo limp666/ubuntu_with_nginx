@@ -1,6 +1,5 @@
 # dockerfile-Nginx
 * Base image is ubuntu
-* curl installed
 * Nginx installed
 
 # Building & Running
