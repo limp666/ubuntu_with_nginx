@@ -27,6 +27,7 @@ nginx-6dc577f45b-jjc6k   1/1     Running            0          2m16s
 nginx-6dc577f45b-jprfr   1/1     Running            0          2m16s
 nginx-6dc577f45b-l8qn6   1/1     Running            4          2m16s
 nginx-6dc577f45b-l96mz   1/1     Running            4          2m16s
+nginx-6dc577f45b-l9tbd   1/1     Running            0          2m16s
 nginx-6dc577f45b-shnbt   1/1     Running            4          2m16s
 nginx-6dc577f45b-vkrbx   1/1     Running            0          2m16s
 nginx-6dc577f45b-zkhgv   1/1     Running            4          2m16s
